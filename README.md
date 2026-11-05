@@ -1,4 +1,4 @@
-# Hệ thống gọi món ăn trực tuyến tích hợp gợi ý món ăn thông minh
+# Hệ thống gọi món ăn cho nhà hàngtích hợp gợi ý món ăn thông minh
 
 Đồ án môn học — CNTT. Stack: React + Node.js/Express + Prisma (SQLite mặc định, dễ đổi sang PostgreSQL).
 
